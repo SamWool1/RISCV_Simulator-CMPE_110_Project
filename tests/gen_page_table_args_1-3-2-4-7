@@ -1,0 +1,3 @@
+--tablepages 7 --rootpagetable 8 --output tests/pt1-3-2-4-7 1,5 2,6 0,4
+
+# weird bugs in the gen_page_table.py script result in the root at 0x10000
