@@ -1,4 +1,4 @@
-# RISCV_Simulator-CMPE_110_Project
+# RISCV Simulator - CMPE 110 Project
 Reuploaded from my GitLab for portfolio purposes. This was the final version of this project, which was the result of a quarter-long collaboration between myself and two other teammates (listed below). Some starter code WAS provided by the professor.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
